@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Just Order v2</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="email_id">Email ID</string>
+    <string name="entered_nae_and_email_id">Entered name and Email ID</string>
+    <string name="order_summary">Order Summary</string>
+</resources>
